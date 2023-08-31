@@ -1,20 +1,24 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\Meta\\Desktop\\maktab\\_projects\\Store\\Store\\Store.csproj": {}
+    "C:\\Users\\Konj\\source\\repos\\Week19\\Cw19\\Store.csproj": {}
   },
   "projects": {
-    "C:\\Users\\Meta\\Desktop\\maktab\\_projects\\Store\\Store\\Store.csproj": {
+    "C:\\Users\\Konj\\source\\repos\\Week19\\Cw19\\Store.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\Meta\\Desktop\\maktab\\_projects\\Store\\Store\\Store.csproj",
+        "projectUniqueName": "C:\\Users\\Konj\\source\\repos\\Week19\\Cw19\\Store.csproj",
         "projectName": "Store",
-        "projectPath": "C:\\Users\\Meta\\Desktop\\maktab\\_projects\\Store\\Store\\Store.csproj",
-        "packagesPath": "C:\\Users\\Meta\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\Meta\\Desktop\\maktab\\_projects\\Store\\Store\\obj\\",
+        "projectPath": "C:\\Users\\Konj\\source\\repos\\Week19\\Cw19\\Store.csproj",
+        "packagesPath": "C:\\Users\\Konj\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\Konj\\source\\repos\\Week19\\Cw19\\obj\\",
         "projectStyle": "PackageReference",
+        "fallbackFolders": [
+          "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
+        ],
         "configFilePaths": [
-          "C:\\Users\\Meta\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Users\\Konj\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.FallbackLocation.config",
           "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
         ],
         "originalTargetFrameworks": [
@@ -22,7 +26,7 @@
         ],
         "sources": {
           "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
-          "C:\\Program Files\\dotnet\\sdk\\7.0.304\\Sdks\\Microsoft.NET.Sdk.Web\\library-packs": {},
+          "C:\\Program Files\\dotnet\\sdk\\7.0.302\\Sdks\\Microsoft.NET.Sdk.Web\\library-packs": {},
           "https://api.nuget.org/v3/index.json": {}
         },
         "frameworks": {
@@ -43,21 +47,27 @@
           "dependencies": {
             "Microsoft.AspNetCore.Diagnostics.EntityFrameworkCore": {
               "target": "Package",
-              "version": "[7.0.9, )"
+              "version": "[7.0.10, )"
             },
             "Microsoft.EntityFrameworkCore": {
               "target": "Package",
-              "version": "[7.0.9, )"
+              "version": "[7.0.10, )"
             },
             "Microsoft.EntityFrameworkCore.Design": {
               "include": "Runtime, Build, Native, ContentFiles, Analyzers, BuildTransitive",
               "suppressParent": "All",
               "target": "Package",
-              "version": "[7.0.9, )"
+              "version": "[7.0.10, )"
             },
             "Microsoft.EntityFrameworkCore.SqlServer": {
               "target": "Package",
-              "version": "[7.0.9, )"
+              "version": "[7.0.10, )"
+            },
+            "Microsoft.EntityFrameworkCore.Tools": {
+              "include": "Runtime, Build, Native, ContentFiles, Analyzers, BuildTransitive",
+              "suppressParent": "All",
+              "target": "Package",
+              "version": "[7.0.10, )"
             }
           },
           "imports": [
@@ -79,7 +89,7 @@
               "privateAssets": "all"
             }
           },
-          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\7.0.304\\RuntimeIdentifierGraph.json"
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\7.0.302\\RuntimeIdentifierGraph.json"
         }
       }
     }

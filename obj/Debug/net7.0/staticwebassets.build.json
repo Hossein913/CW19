@@ -1,6 +1,6 @@
 {
   "Version": 1,
-  "Hash": "KqFoDQzxVzJsMQP67VcjGx632g7zEiFlgWuoy51zCcw=",
+  "Hash": "eyC5RmVWUXm7RsoljOauOP0LPPawOiUE0oe9pCec1qg=",
   "Source": "Store",
   "BasePath": "_content/Store",
   "Mode": "Default",
@@ -10,17 +10,17 @@
     {
       "Name": "Store\\wwwroot",
       "Source": "Store",
-      "ContentRoot": "C:\\Users\\Meta\\Desktop\\maktab\\_projects\\Store\\Store\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\Konj\\source\\repos\\Week19\\Cw19\\wwwroot\\",
       "BasePath": "_content/Store",
       "Pattern": "**"
     }
   ],
   "Assets": [
     {
-      "Identity": "C:\\Users\\Meta\\Desktop\\maktab\\_projects\\Store\\Store\\obj\\Debug\\net7.0\\scopedcss\\bundle\\Store.styles.css",
+      "Identity": "C:\\Users\\Konj\\source\\repos\\Week19\\Cw19\\obj\\Debug\\net7.0\\scopedcss\\bundle\\Store.styles.css",
       "SourceId": "Store",
       "SourceType": "Computed",
-      "ContentRoot": "C:\\Users\\Meta\\Desktop\\maktab\\_projects\\Store\\Store\\obj\\Debug\\net7.0\\scopedcss\\bundle\\",
+      "ContentRoot": "C:\\Users\\Konj\\source\\repos\\Week19\\Cw19\\obj\\Debug\\net7.0\\scopedcss\\bundle\\",
       "BasePath": "_content/Store",
       "RelativePath": "Store.styles.css",
       "AssetKind": "All",
@@ -31,13 +31,13 @@
       "AssetTraitValue": "ApplicationBundle",
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
-      "OriginalItemSpec": "C:\\Users\\Meta\\Desktop\\maktab\\_projects\\Store\\Store\\obj\\Debug\\net7.0\\scopedcss\\bundle\\Store.styles.css"
+      "OriginalItemSpec": "C:\\Users\\Konj\\source\\repos\\Week19\\Cw19\\obj\\Debug\\net7.0\\scopedcss\\bundle\\Store.styles.css"
     },
     {
-      "Identity": "C:\\Users\\Meta\\Desktop\\maktab\\_projects\\Store\\Store\\obj\\Debug\\net7.0\\scopedcss\\projectbundle\\Store.bundle.scp.css",
+      "Identity": "C:\\Users\\Konj\\source\\repos\\Week19\\Cw19\\obj\\Debug\\net7.0\\scopedcss\\projectbundle\\Store.bundle.scp.css",
       "SourceId": "Store",
       "SourceType": "Computed",
-      "ContentRoot": "C:\\Users\\Meta\\Desktop\\maktab\\_projects\\Store\\Store\\obj\\Debug\\net7.0\\scopedcss\\projectbundle\\",
+      "ContentRoot": "C:\\Users\\Konj\\source\\repos\\Week19\\Cw19\\obj\\Debug\\net7.0\\scopedcss\\projectbundle\\",
       "BasePath": "_content/Store",
       "RelativePath": "Store.bundle.scp.css",
       "AssetKind": "All",
@@ -48,13 +48,13 @@
       "AssetTraitValue": "ProjectBundle",
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
-      "OriginalItemSpec": "C:\\Users\\Meta\\Desktop\\maktab\\_projects\\Store\\Store\\obj\\Debug\\net7.0\\scopedcss\\projectbundle\\Store.bundle.scp.css"
+      "OriginalItemSpec": "C:\\Users\\Konj\\source\\repos\\Week19\\Cw19\\obj\\Debug\\net7.0\\scopedcss\\projectbundle\\Store.bundle.scp.css"
     },
     {
-      "Identity": "C:\\Users\\Meta\\Desktop\\maktab\\_projects\\Store\\Store\\wwwroot\\css\\styles.css",
+      "Identity": "C:\\Users\\Konj\\source\\repos\\Week19\\Cw19\\wwwroot\\css\\styles.css",
       "SourceId": "Store",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\Meta\\Desktop\\maktab\\_projects\\Store\\Store\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\Konj\\source\\repos\\Week19\\Cw19\\wwwroot\\",
       "BasePath": "_content/Store",
       "RelativePath": "css/styles.css",
       "AssetKind": "All",
@@ -68,10 +68,10 @@
       "OriginalItemSpec": "wwwroot\\css\\styles.css"
     },
     {
-      "Identity": "C:\\Users\\Meta\\Desktop\\maktab\\_projects\\Store\\Store\\wwwroot\\favicon.ico",
+      "Identity": "C:\\Users\\Konj\\source\\repos\\Week19\\Cw19\\wwwroot\\favicon.ico",
       "SourceId": "Store",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\Meta\\Desktop\\maktab\\_projects\\Store\\Store\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\Konj\\source\\repos\\Week19\\Cw19\\wwwroot\\",
       "BasePath": "_content/Store",
       "RelativePath": "favicon.ico",
       "AssetKind": "All",
@@ -85,10 +85,10 @@
       "OriginalItemSpec": "wwwroot\\favicon.ico"
     },
     {
-      "Identity": "C:\\Users\\Meta\\Desktop\\maktab\\_projects\\Store\\Store\\wwwroot\\images\\emptycart.png",
+      "Identity": "C:\\Users\\Konj\\source\\repos\\Week19\\Cw19\\wwwroot\\images\\emptycart.png",
       "SourceId": "Store",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\Meta\\Desktop\\maktab\\_projects\\Store\\Store\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\Konj\\source\\repos\\Week19\\Cw19\\wwwroot\\",
       "BasePath": "_content/Store",
       "RelativePath": "images/emptycart.png",
       "AssetKind": "All",
@@ -102,10 +102,10 @@
       "OriginalItemSpec": "wwwroot\\images\\emptycart.png"
     },
     {
-      "Identity": "C:\\Users\\Meta\\Desktop\\maktab\\_projects\\Store\\Store\\wwwroot\\js\\datatables-simple-demo.js",
+      "Identity": "C:\\Users\\Konj\\source\\repos\\Week19\\Cw19\\wwwroot\\js\\datatables-simple-demo.js",
       "SourceId": "Store",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\Meta\\Desktop\\maktab\\_projects\\Store\\Store\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\Konj\\source\\repos\\Week19\\Cw19\\wwwroot\\",
       "BasePath": "_content/Store",
       "RelativePath": "js/datatables-simple-demo.js",
       "AssetKind": "All",
@@ -119,10 +119,10 @@
       "OriginalItemSpec": "wwwroot\\js\\datatables-simple-demo.js"
     },
     {
-      "Identity": "C:\\Users\\Meta\\Desktop\\maktab\\_projects\\Store\\Store\\wwwroot\\js\\scripts.js",
+      "Identity": "C:\\Users\\Konj\\source\\repos\\Week19\\Cw19\\wwwroot\\js\\scripts.js",
       "SourceId": "Store",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\Meta\\Desktop\\maktab\\_projects\\Store\\Store\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\Konj\\source\\repos\\Week19\\Cw19\\wwwroot\\",
       "BasePath": "_content/Store",
       "RelativePath": "js/scripts.js",
       "AssetKind": "All",

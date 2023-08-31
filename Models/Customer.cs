@@ -11,8 +11,7 @@
         //navigation :
         //each customer has 1 cart
 
-        public int CartId { get; set; }
-
+        public int? CartId { get; set; }
         public Cart Cart { get; set; }
 
     }

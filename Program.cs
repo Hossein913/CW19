@@ -1,4 +1,5 @@
 using Microsoft.EntityFrameworkCore;
+using Store.DAL;
 
 namespace Store
 {
@@ -13,7 +14,8 @@ namespace Store
 
             //--------------------------------------------------------------------------------------------------------------------------------------
             //db config here
-
+            builder.Services.AddDbContext<dbContext>(option =>
+            option.UseSqlServer(builder.Configuration.GetConnectionString("DefaultConnection")));
             //repo config here
 
             //--------------------------------------------------------------------------------------------------------------------------------------

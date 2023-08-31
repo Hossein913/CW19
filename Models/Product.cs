@@ -1,12 +1,12 @@
-﻿namespace Store.Models
+﻿using System.ComponentModel.DataAnnotations;
+
+namespace Store.Models
 {
     public class Product
     {
         public int ProductId { get; set; }
-
+        [Required]
         public string Name { get; set; }
-
-        public string? Title { get; set; }
 
         public double Price { get; set; }
 
@@ -18,5 +18,8 @@
         //each product own many orders
 
         public List<Order> Orders { get; set; }
+
+        public int CategoryId { get; set; }
+        public Category Category { get; set; }
     }
 }
